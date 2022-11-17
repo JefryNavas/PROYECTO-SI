@@ -1,9 +1,7 @@
 ## UNIVERSIDAD POLITECNICA SALESIANA
-## Asignatura: Plataformas Web
 ## Autor: Joel Yunga
 ## Emai: jyungap1@est.ups.edu.ec
 
-# Blog Personal
 
 ### Pre-requisitos 📋
 
@@ -57,7 +55,7 @@ Abra su navegador digite en la seccion de url: localhost:3000
 ```
 Si quiere ver en la web subida a una app seguir al siguiente enlace
 
-_https://blogpersonal-jyunga.herokuapp.com/_
+
 
 
 ## Construido con 🛠️
